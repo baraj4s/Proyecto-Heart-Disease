@@ -31,7 +31,7 @@
 | Integrante | Código | Correo |
 |:---|:---:|:---|
 | Angel Santiago Barjas | 2251511 | angelsantybarajas@gmail.com |
-| Miguel Angel Plata | [Código] | mikevideos45@gmail.com |
+| Miguel Angel Plata | 2211245 | mikevideos45@gmail.com |
 
 **Grupo:** C1  
 **Periodo:** 2026-2  
