@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Heart Disease](images/heart-disease-banner.pn)
+![Heart Disease](images/heart-disease-banner.png)
 
 </div>
 
