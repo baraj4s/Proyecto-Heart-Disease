@@ -295,6 +295,12 @@ Estos resultados muestran la utilidad de las técnicas de aprendizaje automátic
 
 ---
 
+## 🎥 Video presentacion del proyecto
+
+https://youtu.be/46Jh5RR8LwY
+
+---
+
 ## ⚠️ Aviso
 
 Este proyecto tiene fines académicos y educativos. Los modelos desarrollados no constituyen herramientas de diagnóstico médico ni sustituyen la evaluación de profesionales de la salud.
